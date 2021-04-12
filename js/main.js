@@ -2,7 +2,7 @@
 var userId = prompt("Welcome to Payninis! What's your name?");
 var day = new Date();
 var currentTime = day.getHours();
-var greeting = "Welcome to Payninis "
+var greeting = "Welcome to <b>Payninis<b> "
 var welcome;
 
 //Welcome Prompt
